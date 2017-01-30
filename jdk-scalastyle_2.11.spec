@@ -1,6 +1,6 @@
 Name     : jdk-scalastyle_2.11
 Version  : 0.8.0
-Release  : 2
+Release  : 3
 URL      : http://repo2.maven.org/maven2/org/scalastyle/scalastyle_2.11/0.8.0/scalastyle_2.11-0.8.0.jar
 Source0  : http://repo2.maven.org/maven2/org/scalastyle/scalastyle_2.11/0.8.0/scalastyle_2.11-0.8.0.jar
 Source1  : http://repo2.maven.org/maven2/org/scalastyle/scalastyle_2.11/0.8.0/scalastyle_2.11-0.8.0.pom
